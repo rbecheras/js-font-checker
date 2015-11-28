@@ -55,4 +55,12 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Credits
 
-Thanks to Remy Sharp https://remysharp.com for providing the solution used in this module;
+The author of this module is Rémi Becheras
+
+- github https://github.com/rbecheras
+- twitter https://twitter.com/remibecheras
+- stackoverflow https://stackoverflow.com/users/3197383/rémi-becheras
+
+Thanks to Remy Sharp for providing the solution used in this module
+
+- Blog https://remysharp.com
