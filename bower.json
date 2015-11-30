@@ -1,0 +1,26 @@
+{
+  "name": "font-checker",
+  "version": "0.1.0",
+  "authors": [
+    "Rémi Becheras <rbecheras@sirap.fr>"
+  ],
+  "description": "A javascript module that permit to check browser-side if a given font-family is supported by the client OS",
+  "main": "font-checker.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "javascript",
+    "font",
+    "lib"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sirap-group/js-font-checker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
