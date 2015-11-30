@@ -5,7 +5,14 @@ module.exports = function (grunt) {
       jshint: {
         all: ['gruntfile.js', 'main.js']
       },
-      browserify: { 'font-checker.js': ['main.js'] }
+      browserify: { 'font-checker.js': ['main.js'] },
+      uglify: {
+        dist: {
+          files: {
+            'font-checker.min.js': ['font-checker.js']
+          }
+        }
+      }
     });
 
 };
