@@ -61,6 +61,7 @@ The author of this module is Rémi Becheras
 - twitter https://twitter.com/remibecheras
 - stackoverflow https://stackoverflow.com/users/3197383/rémi-becheras
 
-Thanks to Remy Sharp for providing the solution used in this module
+Thanks to Remy Sharp for providing the inspiration/solution used in this module
 
 - Blog https://remysharp.com
+- Post about js Font detection https://remysharp.com/2008/07/08/how-to-detect-if-a-font-is-installed-only-using-javascript
