@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sirap-group/js-font-checker/issues"
   },
-  "homepage": "https://github.com/sirap-group/js-font-checker#readme"
+  "homepage": "https://github.com/sirap-group/js-font-checker#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
