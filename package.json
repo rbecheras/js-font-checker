@@ -1,6 +1,6 @@
 {
   "name": "font-checker",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A javascript module that permit to check browser-side if a given font-family is supported by the client OS",
   "main": "main.js",
   "scripts": {
