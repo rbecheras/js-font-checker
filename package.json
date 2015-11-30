@@ -23,6 +23,7 @@
   "homepage": "https://github.com/sirap-group/js-font-checker#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
     "grunt-bump": "^0.6.0",
     "grunt-contrib-jshint": "^0.11.3",
     "grunt-contrib-uglify": "^0.11.0"
