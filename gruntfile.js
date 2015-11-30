@@ -4,7 +4,8 @@ module.exports = function (grunt) {
     grunt.initConfig({
       jshint: {
         all: ['gruntfile.js', 'main.js']
-      }
+      },
+      browserify: { 'font-checker.js': ['main.js'] }
     });
 
 };
